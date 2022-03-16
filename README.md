@@ -1,6 +1,6 @@
 # My Demo project
 Demo of GitHub
 
-##Something
+## Something
 - Point 1
 - Point 2

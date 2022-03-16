@@ -1,6 +1,6 @@
 # My Demo project
 Demo of GitHub
 
-## Something
+## Subtitle
 - Point 1
 - Point 2
